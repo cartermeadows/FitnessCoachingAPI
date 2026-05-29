@@ -199,5 +199,5 @@ Authorization: Bearer your_token_here
 ## Author
 
 **Carter Meadows**
-Computer Science Graduate — Cyber Security Concentration
+Computer Science Graduate
 University of North Carolina at Charlotte
