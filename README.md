@@ -1,6 +1,3 @@
-# Fitness Coaching API - ITIS 4166-052
-
-A fitness platform used by coaches to create and assign workout plans to clients who can also track their progress and record a diary.
 # Fitness Coaching API
 
 A RESTful backend API for a fitness coaching platform that allows coaches to create training programs for clients, track workout performance, and manage client training diaries. This project was built with Node.js, Express, PostgreSQL, Prisma, JWT authentication, and Swagger/OpenAPI documentation.
